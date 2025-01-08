@@ -3,7 +3,7 @@ The License Plate Scanner is an advanced system designed to efficiently **Captur
 
 ## Screenshot Of The Working Model:
 
-<img width="1408" alt="image" 
+ <img width="1408" alt="image" 
  src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">
 
 ## Features:
