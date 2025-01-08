@@ -10,4 +10,4 @@ The License Plate Scanner is an advanced system designed to efficiently **Captur
 
 - **Machine Learning AI**:
   
-- Build the model to predict license plate number of the vehicle, it uses numpy, matplotlib, easyocr, etc.
+- Build the model to predict license plate number of the vehicle, it uses numpy, matplotlib, easyocr, etc type tech.
