@@ -4,8 +4,8 @@
 
 ## Screenshot Of The Working Model:
 
- <img width="1408" alt="image" 
- src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">
+  <img width="1408" alt="image" 
+  src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">
 
 ## Features:
 
