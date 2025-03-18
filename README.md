@@ -18,7 +18,7 @@
   **Machine Learning AI**:
   
   
-  ->  Build the model to predict license plate number of the vehicle, it uses numpy, matplotlib, easyocr, etc type techonologies .
+  ->  Build the model to predict license plate number of the vehicle, it uses numpy, matplotlib, easyocr, etc type techonologies.
   
 
 
