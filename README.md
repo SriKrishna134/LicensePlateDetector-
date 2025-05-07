@@ -13,7 +13,7 @@
   src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">
   
 
- ## Features:
+ ## Features: 
 
 
 
