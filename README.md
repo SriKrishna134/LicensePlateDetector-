@@ -21,7 +21,7 @@
   
   
    ->  Build the Model to predict license plate number of the vehicle, it uses numpy, matplotlib, easyocr, etc type techonologies. 
-  
+      
 
 
 
@@ -31,3 +31,8 @@
 
 
                                                                                   
+
+
+
+
+                                          
