@@ -10,7 +10,7 @@
 
 
   <img width="1408" alt="image" 
-  src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">
+  src="https://github.com/SriKrishna134/LicensePlateDetector-/blob/main/assets/thumbnail.png">   
   
 
  ## Features:  
